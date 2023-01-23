@@ -1,6 +1,6 @@
 <h1 align="center"> TecBlog </h1>
 
-<p align="center">Aplicação web financeira,criada exclusivamente para fins de estudo <br/>
+<p align="center">Página criada com o intuito de simular um site sobre tecnologia <br/>
 </p>
 
 <p align="center">
@@ -29,4 +29,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Página criada com o intuito de criar boas práticas nos conceitos básicos de HTML e CSS.
 
-<!-- - [Visite o projeto online](https://danrodriguezdev.github.io/Finans/) -->
+[Visite o projeto online](https://danrodriguezdev.github.io/TecBlog/)
